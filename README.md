@@ -111,14 +111,63 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
 # B. Penjelasan Alur Output
 
-## 1. Tampilkan daftar obat
+1. Menu Tampilkan Daftar Obat
+
+   Ketika pengguna memilih menu 1, program akan menjalankan fungsi untuk menampilkan daftar obat yang tersedia di dalam sistem. Output yang ditampilkan berupa informasi detail dari setiap obat, seperti nama obat, kategori, tanggal kedaluwarsa (Expired Date), jumlah stok, dan harga. Setiap obat dipisahkan dengan garis pemisah agar lebih rapi. Contohnya, program menampilkan data Amoxicillin, Paracetamol, Ibuprofen, dan Vitamin C beserta atributnya masing-masing. Hal ini menunjukkan bahwa data obat sudah tersimpan dalam sistem dan bisa dilihat kembali kapan saja oleh pengguna.
+
+   <img width="665" height="813" alt="Screenshot 2025-09-15 041009" src="https://github.com/user-attachments/assets/89563fe2-f27a-475b-b55e-02d7447b3df5" />
+
+3. Menu Tambah Obat
+
+   Pada gambar kedua, pengguna memilih menu 2, yaitu Tambah Obat. Program kemudian meminta input dari pengguna berupa nama obat, kategori, tanggal kedaluwarsa, stok, dan harga. Setelah semua data dimasukkan, sistem akan menyimpannya ke dalam daftar obat. Sebagai contoh, pengguna menambahkan obat baru dengan nama Antasida Tablet, kategori Obat lambung, expired date 01-05-2027, stok 60, dan harga 3000. Setelah data dimasukkan, program menampilkan pesan konfirmasi “Obat berhasil ditambahkan!” yang berarti data obat baru sudah masuk ke dalam sistem.
+   
+   <img width="508" height="301" alt="Screenshot 2025-09-15 041312" src="https://github.com/user-attachments/assets/57640cff-2028-408b-bf49-e3532c0b2e6e" />
+
+    Pengecekan:
+
+   <img width="384" height="170" alt="image" src="https://github.com/user-attachments/assets/6260e20f-4d77-4067-93d3-b96de824b7ae" />
+   
+
+4. Menu Update Stok
+
+   ??????
+   
+   <img width="524" height="177" alt="image" src="https://github.com/user-attachments/assets/60d08c0a-8d11-4a8a-836a-217a2e837078" />
+
+   <img width="405" height="148" alt="image" src="https://github.com/user-attachments/assets/31a37010-2f3b-4784-82ac-4b7125cd960c" />
 
 
+   Pengecekan:
+
+   <img width="364" height="165" alt="image" src="https://github.com/user-attachments/assets/ac1b72d5-2a28-41de-bdea-0b40dd782320" />
+   
+6. Menu Hapus Daftar
+
+   cc
+
+   <img width="517" height="178" alt="image" src="https://github.com/user-attachments/assets/3d4fc980-2856-4255-b9e3-d0460175e96c" />
+
+   <img width="405" height="75" alt="image" src="https://github.com/user-attachments/assets/9f1c793b-c23d-44ef-992c-0707d14ea5c7" />
+
+   Pengecekan:
+
+   <img width="570" height="774" alt="image" src="https://github.com/user-attachments/assets/a7f259df-d288-4b53-90e8-72e23fb4186a" />
 
 
+8. Menu Cari Obat
+
+   <img width="543" height="325" alt="image" src="https://github.com/user-attachments/assets/118471b6-5632-4d48-a391-f5b55b4e5fce" />
+
+   
+10. Menu Keluar
+
+    <img width="517" height="227" alt="image" src="https://github.com/user-attachments/assets/c60bd6df-ca33-4963-a0f7-fed1a1fe2254" />
 
 
+# C. Validasi Input
 
+   <img width="515" height="392" alt="image" src="https://github.com/user-attachments/assets/cc43f9ff-e636-49ca-be8e-acb6f8b1125a" />
 
+   
 
 
