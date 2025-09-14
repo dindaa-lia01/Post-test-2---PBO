@@ -8,17 +8,17 @@ Program manajemen obat di apotek ini dibuat dengan menggunakan bahasa pemrograma
 
 ## 1. Package Main
 
-a. 
+a. Import dan Package
+
+    x
 
 ## 2. Package Service
 
-   a.  Import dan Package
+a.  Import dan Package    
 
-       Pada bagian ini dilakukan import beberapa library yang dibutuhkan dalam program. models.Obat digunakan untuk memanggil class Obat yang berisi atribut dan method terkait data obat. 
-       LocalDate serta DateTimeFormatter dipakai untuk mengelola dan memformat tanggal kadaluarsa obat. ArrayList berfungsi sebagai struktur data dinamis untuk menyimpan kumpulan objek Obat, sedangkan Scanner memungkinkan program membaca input dari pengguna melalui console. 
-       Dengan adanya import ini, program dapat menjalankan operasi dasar seperti pengolahan tanggal, penyimpanan data obat, serta interaksi dengan pengguna.
-
-  <img width="427" height="207" alt="Screenshot 2025-09-15 030959" src="https://github.com/user-attachments/assets/f684a1dd-62e1-4dad-af0a-efd8f8b36ea5" />
+   Pada bagian ini dilakukan import beberapa library yang dibutuhkan dalam program. models.Obat digunakan untuk memanggil class Obat yang berisi atribut dan method terkait data obat. LocalDate serta DateTimeFormatter dipakai untuk mengelola dan memformat tanggal kadaluarsa obat. ArrayList berfungsi sebagai struktur data dinamis untuk menyimpan kumpulan objek Obat, sedangkan Scanner memungkinkan program membaca input dari pengguna melalui console. Dengan adanya import ini, program dapat menjalankan operasi dasar seperti pengolahan tanggal, penyimpanan data obat, serta interaksi dengan pengguna.
+       
+   <img width="427" height="207" alt="Screenshot 2025-09-15 030959" src="https://github.com/user-attachments/assets/f684a1dd-62e1-4dad-af0a-efd8f8b36ea5" />
 
 b. Constructor
 
