@@ -80,7 +80,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
    <img width="760" height="478" alt="Screenshot 2025-09-15 031448" src="https://github.com/user-attachments/assets/c894923f-b3f6-4806-a2dd-96e8f40b8e64" />
 
-3. Package Models
+## 3. Package Models
 
    - Package dan Import
 
@@ -109,9 +109,9 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
      
      <img width="523" height="254" alt="Screenshot 2025-09-15 040259" src="https://github.com/user-attachments/assets/6573571a-5f80-410d-b577-fd6944d4c21d" />
 
-B. Penjelasan Alur Output
+# B. Penjelasan Alur Output
 
-1. Tampilkan daftar obat
+## 1. Tampilkan daftar obat
 
 
 
