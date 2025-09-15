@@ -130,7 +130,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
 4. Menu Update Stok
 
-   ??????
+   Pengguna memilih menu nomor 3 (Update Stok). Program menanyakan nomor obat yang ingin diupdate, lalu pengguna memasukkan nomor 5. Setelah itu, pengguna mengisi ulang data obat dengan nama Antasida Tablet, kategori Obat lambung, stok 0, dan harga 3000.0. Program kemudian mengonfirmasi bahwa “Obat berhasil diupdate!”. Proses ini menunjukkan bahwa data lama obat nomor 5 telah diganti dengan data baru.
    
    <img width="524" height="177" alt="image" src="https://github.com/user-attachments/assets/60d08c0a-8d11-4a8a-836a-217a2e837078" />
 
@@ -143,7 +143,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
    
 6. Menu Hapus Daftar
 
-   cc
+   Pengguna memilih menu nomor 4 (Hapus Daftar). Setelah itu, program meminta input nomor obat yang ingin dihapus. Pengguna memasukkan nomor 5, lalu sistem menghapus obat tersebut dari daftar dan menampilkan pesan “Obat berhasil dihapus!”. Ini menandakan proses penghapusan data obat berjalan sukses.
 
    <img width="517" height="178" alt="image" src="https://github.com/user-attachments/assets/3d4fc980-2856-4255-b9e3-d0460175e96c" />
 
@@ -156,11 +156,14 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
 8. Menu Cari Obat
 
+   Pengguna memilih menu nomor 5 (Cari Obat). Program meminta input nama obat yang ingin dicari, lalu pengguna mengetikkan kata kunci vitamin. Sistem menemukan data yang sesuai, yaitu Vitamin C, dengan kategori Suplemen, tanggal kedaluwarsa 2026-01-01, stok 100, dan harga Rp4000.0. Output ini menampilkan detail lengkap obat yang berhasil ditemukan berdasarkan kata kunci.
+   
    <img width="543" height="325" alt="image" src="https://github.com/user-attachments/assets/118471b6-5632-4d48-a391-f5b55b4e5fce" />
 
    
 10. Menu Keluar
 
+    Pengguna memilih menu nomor 6 (Keluar). Program kemudian menampilkan pesan “Terima kasih telah menggunakan program! Program selesai.” yang menandakan aplikasi telah dihentikan secara normal. Dengan begitu, program kembali ke kondisi berhenti tanpa error.    
     <img width="517" height="227" alt="image" src="https://github.com/user-attachments/assets/c60bd6df-ca33-4963-a0f7-fed1a1fe2254" />
 
 
