@@ -173,8 +173,8 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
       Jika pengguna memilih menu di luar opsi yang tersedia (misalnya memasukkan angka 7 padahal hanya ada 1–6), program menampilkan pesan “Pilihan tidak valid!” lalu kembali ke menu utama. Ini memastikan hanya opsi yang benar yang bisa dijalankan.
       
-   <img width="515" height="392" alt="image" src="https://github.com/user-attachments/assets/cc43f9ff-e636-49ca-be8e-acb6f8b1125a" />
-
+      <img width="515" height="392" alt="image" src="https://github.com/user-attachments/assets/cc43f9ff-e636-49ca-be8e-acb6f8b1125a" />
+   
    2. Validasi Tambah Obat
 
       Saat menambahkan obat (menu 2), jika pengguna tidak mengisi nama obat (kosong), program menampilkan pesan “Nama obat tidak boleh kosong!”. Hal ini mencegah data obat tersimpan tanpa informasi penting.
@@ -189,7 +189,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
    4. Validasi Update Obat
 
-      Sama halnya dengan hapus obat, jika pengguna memilih nomor obat yang tidak tersedia (contohnya nomor 6), program juga memberi pesan “Nomor obat tidak valid!”. Dengan begitu, hanya obat yang ada dalam daftar yang bisa diperbarui.
+      Jika pengguna memilih nomor obat yang tidak tersedia (contohnya nomor 6), program juga memberi pesan “Nomor obat tidak valid!”. Dengan begitu, hanya obat yang ada dalam daftar yang bisa diperbarui.
 
       <img width="404" height="375" alt="Screenshot 2025-09-15 043601" src="https://github.com/user-attachments/assets/7ea667d1-c63c-4a3c-9fb3-75b2ccf05d4f" />
 
