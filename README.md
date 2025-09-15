@@ -10,7 +10,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
 # A. Penjelasan Baris Kode
 
-## 1. Package Main
+## 1. Package Main (class apotek)
 
 - Package dan Import 
 
@@ -36,7 +36,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
   <img width="610" height="339" alt="Screenshot 2025-09-15 034559" src="https://github.com/user-attachments/assets/82280696-9a55-4e22-8510-1eb6f9811c59" />
 
-## 2. Package Service
+## 2. Package Service (clas obatService)
 
 - Package dan Import 
         
@@ -80,7 +80,7 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
    <img width="760" height="478" alt="Screenshot 2025-09-15 031448" src="https://github.com/user-attachments/assets/c894923f-b3f6-4806-a2dd-96e8f40b8e64" />
 
-## 3. Package Models
+## 3. Package Models (class Obat)
 
    - Package dan Import
 
