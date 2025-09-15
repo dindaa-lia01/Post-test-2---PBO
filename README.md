@@ -169,8 +169,36 @@ Nama: Dinda Aulia Rizky   NIM: 2409116076   Kelas: B
 
 # C. Validasi Input
 
+   1. Validasi Menu Utama
+
+      Jika pengguna memilih menu di luar opsi yang tersedia (misalnya memasukkan angka 7 padahal hanya ada 1–6), program menampilkan pesan “Pilihan tidak valid!” lalu kembali ke menu utama. Ini memastikan hanya opsi yang benar yang bisa dijalankan.
+      
    <img width="515" height="392" alt="image" src="https://github.com/user-attachments/assets/cc43f9ff-e636-49ca-be8e-acb6f8b1125a" />
 
-   
+   2. Validasi Tambah Obat
 
+      Saat menambahkan obat (menu 2), jika pengguna tidak mengisi nama obat (kosong), program menampilkan pesan “Nama obat tidak boleh kosong!”. Hal ini mencegah data obat tersimpan tanpa informasi penting.
+
+      <img width="525" height="224" alt="Screenshot 2025-09-15 043427" src="https://github.com/user-attachments/assets/3d5f901f-46c3-4ecd-a84d-01b3dfb0828a" />
+
+   3. Validasi Hapus Obat
+      
+      Jika pengguna ingin menghapus obat dengan nomor yang tidak ada di daftar (misalnya memasukkan 5 sementara hanya ada nomor 3 dan 4), program menampilkan pesan “Nomor obat tidak valid!”. Ini menjaga agar data yang tidak ada tidak bisa dihapus.
+
+      <img width="406" height="365" alt="Screenshot 2025-09-15 043641" src="https://github.com/user-attachments/assets/f898942e-146e-43e0-934e-1f42d3ed8e06" />
+
+   4. Validasi Update Obat
+
+      Sama halnya dengan hapus obat, jika pengguna memilih nomor obat yang tidak tersedia (contohnya nomor 6), program juga memberi pesan “Nomor obat tidak valid!”. Dengan begitu, hanya obat yang ada dalam daftar yang bisa diperbarui.
+
+      <img width="404" height="375" alt="Screenshot 2025-09-15 043601" src="https://github.com/user-attachments/assets/7ea667d1-c63c-4a3c-9fb3-75b2ccf05d4f" />
+
+   5. Validasi Cari Obat
+
+      Jika pengguna memasukkan kata kunci pencarian yang tidak ditemukan dalam daftar (contohnya “siladex”), program menampilkan pesan “Obat dengan kata kunci ‘siladex’ tidak ditemukan.”. Ini memastikan pencarian hanya menampilkan data yang benar-benar ada.
+
+      <img width="524" height="232" alt="Screenshot 2025-09-15 043701" src="https://github.com/user-attachments/assets/e9e2000e-0826-45f6-93fe-b163489e3061" />
+
+
+      
 
